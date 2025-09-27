@@ -74,7 +74,7 @@ Sempre busco aprender novas ferramentas e linguagens para desenvolver soluções
 <br>
 <br>
 <br>
-
+<br>
 
 
 ✨ *“A cada linha de código, um passo a mais na jornada do conhecimento.”*  
