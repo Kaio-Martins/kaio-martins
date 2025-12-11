@@ -1,5 +1,5 @@
 # 👩🏾‍💻 Kaio Martins Fonseca
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor junior`**
 
 🎓 Meu nome é **Kaio Martins Fonseca**, tenho **17 anos** e atualmente curso o **Técnico em Informática na FAETEC**.  
 Meu próximo objetivo é ingressar na graduação em **Engenharia da Computação**.  
